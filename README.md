@@ -24,8 +24,7 @@ Here's what the DOM be going through:
 13. destroyed nav
 14. destroyed header
 
-To know better about this project, please click:
-[DEMO](https://irene289.github.io/lifecycle-vue/)
+To know better about this project, please check out [DEMO](https://irene289.github.io/lifecycle-vue/) and open the developer console.
 
 
 ## Project setup
